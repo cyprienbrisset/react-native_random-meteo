@@ -19,7 +19,7 @@ N'hésitez pas à ouvrir des issues et proposer des pull requests pour améliore
 Plus d'infos sur la configuration et le démarrage du projet dans le README.
 
 ## Licence 
-MétéoRando est sous licence MIT.
+MétéoRando est sous licence Creative Commons Attribution-NoDerivs (CC BY-ND).
 
 ## Contact
 Contactez le développeur : @cyprienbrisset
